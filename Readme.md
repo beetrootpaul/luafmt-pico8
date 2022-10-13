@@ -1,4 +1,10 @@
-# Luafmt
+# luafmt-pico8
+
+---
+
+⚠️ **This project is under development, nothing ready to be used yet** ⚠️
+
+---
 
 A small Lua formatter / pretty printer. Designed for 5.1, may support newer versions.
 
