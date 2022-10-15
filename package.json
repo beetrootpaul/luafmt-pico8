@@ -35,7 +35,7 @@
   "dependencies": {
     "lustils": "^1.0.2",
     "luon": "^1.2.6",
-    "luaparse": "^0.3.0"
+    "luaparse": "file:../pico8parse"
   },
   "devDependencies": {
     "litests": "^1.0.6"
